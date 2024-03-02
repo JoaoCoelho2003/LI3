@@ -145,7 +145,9 @@ We hope you find working with the LI3 project both educational and rewarding! If
 ## Developed by
 
 **A100596** João Coelho
+
 **A100692** José Rodrigues
+
 **A100750** Duarte Araújo
 
 
